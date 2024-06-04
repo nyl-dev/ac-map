@@ -33,7 +33,7 @@ This is the geographic database which visualises locations of technology art stu
 
 ## Usage
 
-1. **Add Your Data**: Add your studio data to the provided `studios.json` file in the `data` directory. Ensure the data includes the necessary fields such as studio name, location, and exhibition dates.
+1. **Add Your Data**: Add your studio data to the provided `output.json` file in the `data` directory. Ensure the data includes the necessary fields such as studio name, location, and exhibition dates.
 2. **Run the Local Server**: Start a local server to view the map:
 
     ```bash
