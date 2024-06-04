@@ -7,7 +7,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 // Load JSON data from file
-fetch('output.json')
+fetch('/data/output.json')
   .then(response => response.json())
   .then(jsonData => {
     // Loop through the JSON data and add markers to the map
