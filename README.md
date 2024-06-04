@@ -54,6 +54,12 @@ We welcome contributions from the community! Please read our [contributing guide
 
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License - see the [LICENSE](LICENSE) file for details.
 
+## Hosting
+
+The interactive map will soon be hosted on [awecuration.com](https://awecuration.com). Visit the site to explore the live map with the latest updates.
+
 ## Contact
 
 For any questions or suggestions, feel free to open an issue or contact us at awe.curation@gmail.com
+
+
