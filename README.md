@@ -15,9 +15,7 @@ This is the geographic database which visualises locations of technology art stu
 ### Prerequisites
 
 - Python 3.8+
-- Folium
-- Pandas
-- Jupyter Notebook (optional, for data analysis and visualization)
+- [TBC]
 
 ### Installation
 
@@ -35,8 +33,14 @@ This is the geographic database which visualises locations of technology art stu
 
 ## Usage
 
-1. **Add Your Data**: Add your studio data to the provided `output.json` file in the `data` directory. Ensure the data includes the necessary fields such as studio name, location, and exhibition dates.
-2. **View the Map**: Open the `index.html` file in your browser to interact with the pre-generated map.
+1. **Add Your Data**: Add your studio data to the provided `studios.json` file in the `data` directory. Ensure the data includes the necessary fields such as studio name, location, and exhibition dates.
+2. **Run the Local Server**: Start a local server to view the map:
+
+    ```bash
+    python3 server.py
+    ```
+
+3. **View the Map**: Open your web browser and go to [http://localhost:8000/](http://localhost:8000/) to interact with the pre-generated map.
 
 ### Example
 
