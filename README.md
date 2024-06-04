@@ -1,7 +1,7 @@
 # ac-map
 **awecuration.com open geographic database**
 
-This is the geographic database which visualises locations of technology art studios and their exhibitions as [@awe.curation](https://www.instagram.com/awe.curation/) promoted them. This repository contains the tools and data used to create this interactive map, showcasing the global footprint of technology art curated on our Instagram account. Each location is tagged with the time period of the exhibition, providing a historical context for the spread and influence of technology art.
+This is the geographic database which visualises locations of technology art studios and their exhibitions as [@awe.curation](https://www.instagram.com/awe.curation/) promoted them. This repository contains the tools and data used to create this interactive map, showcasing the global footprint of technology art curated on our Instagram account. Each location is tagged with the time period of the exhibition, providing a historical context for the spread and influence of technology art over time.
 
 ## Features
 
